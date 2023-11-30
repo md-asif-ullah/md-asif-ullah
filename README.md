@@ -2,7 +2,17 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Web Development<br><br>👯 I’m looking to collaborate on Open Source project<br><br>🌱 I’m currently learning JavaScript<br><br>💬 Ask me about Anything<br><br>📫 How to reach me mdasifullah334@gmail.com<br><br>
+- 🔭 I’m currently working on **Web Development**
+
+🌱 I’m currently learning **JavaScript**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **mdasifullah@gmail.com**
+
+- ⚡ Fun fact **I can**
 
 ## 🌐 Socials:
 
@@ -16,9 +26,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevMdAsif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMdAsif&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=DevMdAsif&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
